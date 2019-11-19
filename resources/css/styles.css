@@ -19,6 +19,7 @@ html {
     font-weight: 300;
     font-size: 20px;
     text-rendering: optimizeLegibility;
+    scroll-behavior: smooth;
 }
 
 
@@ -314,7 +315,7 @@ header {
 }
 
 .app-screen {
-    width: 40%;
+    width: 75%;
     height: auto;
 }
 
