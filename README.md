@@ -12,7 +12,7 @@ Busy people who don't have time to cook or don't like to cook.
 One-page webpage containing information provided by Milafood, with simple navigation.
 
 **Content:**  
-provided by Milafood in form of a text document and a couple of images.
+Provided by Milafood in form of a text document and a couple of images.
 
 **Navigation:**  
 Also provided by Milafood in a text document.
