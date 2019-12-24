@@ -27,3 +27,9 @@ Also provided by Milafood in a text document.
 - Sign up
 - Contact form
 - Footer
+
+
+https://realfavicongenerator.net/  -   Icon generator
+https://hatchful.shopify.com/      -   Favicon generator
+https://imagecompressor.com/       -   Image optimizer
+https://cssminifier.com/           -   Css size minify
