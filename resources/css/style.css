@@ -142,11 +142,19 @@ a:visited {
     transition: border-bottom 0.2s, color 0.2s;
 }
 
+a:link#certificate,
+a:visited#certificate {
+
+    border-bottom: 1px solid transparent;
+}
+
 a:hover,
 a:active {
     color: #555;
     border-bottom: 1px solid transparent;
 }
+
+
 
 /* ----- BUTTONS ----- */
 .btn:link,
